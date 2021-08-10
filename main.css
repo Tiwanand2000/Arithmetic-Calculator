@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+input{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 6px;
+    margin: 5px;
+/*    transform: scale(1.02);*/
+    background-color: orange;
+    color: black;
+    font-weight: 500;
+    box-shadow: grey 5px 5px;
+}
+
+#myForm {
+    text-align: center;
+    /*  
+    margin-left: 410px;
+    margin-top: 20px;
+*/
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: aqua;
+}
+
+.btn:active {
+/*  background-color: #3e8e41;*/
+  transform: translateY(4px);
